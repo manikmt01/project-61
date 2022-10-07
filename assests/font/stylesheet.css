@@ -1,0 +1,192 @@
+@font-face {
+    font-family: 'Hobeaux';
+    src: url('Hobeaux-Black.eot');
+    src: url('Hobeaux-Black.eot?#iefix') format('embedded-opentype'),
+        url('Hobeaux-Black.woff2') format('woff2'),
+        url('Hobeaux-Black.woff') format('woff'),
+        url('Hobeaux-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hobeaux';
+    src: url('Hobeaux-Bold.eot');
+    src: url('Hobeaux-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Hobeaux-Bold.woff2') format('woff2'),
+        url('Hobeaux-Bold.woff') format('woff'),
+        url('Hobeaux-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hobeaux';
+    src: url('Hobeaux-Light.eot');
+    src: url('Hobeaux-Light.eot?#iefix') format('embedded-opentype'),
+        url('Hobeaux-Light.woff2') format('woff2'),
+        url('Hobeaux-Light.woff') format('woff'),
+        url('Hobeaux-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hobeaux';
+    src: url('Hobeaux-Regular.eot');
+    src: url('Hobeaux-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Hobeaux-Regular.woff2') format('woff2'),
+        url('Hobeaux-Regular.woff') format('woff'),
+        url('Hobeaux-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acumin Pro';
+    src: url('AcuminPro-BoldItalic.eot');
+    src: url('AcuminPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('AcuminPro-BoldItalic.woff2') format('woff2'),
+        url('AcuminPro-BoldItalic.woff') format('woff'),
+        url('AcuminPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acumin Pro';
+    src: url('AcuminPro-Bold.eot');
+    src: url('AcuminPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AcuminPro-Bold.woff2') format('woff2'),
+        url('AcuminPro-Bold.woff') format('woff'),
+        url('AcuminPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acumin Pro';
+    src: url('AcuminPro-Italic.eot');
+    src: url('AcuminPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('AcuminPro-Italic.woff2') format('woff2'),
+        url('AcuminPro-Italic.woff') format('woff'),
+        url('AcuminPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acumin Pro';
+    src: url('AcuminPro-Regular.eot');
+    src: url('AcuminPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AcuminPro-Regular.woff2') format('woff2'),
+        url('AcuminPro-Regular.woff') format('woff'),
+        url('AcuminPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Antique Olive';
+    src: url('AntiqueOlive-Bold.eot');
+    src: url('AntiqueOlive-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AntiqueOlive-Bold.woff2') format('woff2'),
+        url('AntiqueOlive-Bold.woff') format('woff'),
+        url('AntiqueOlive-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Antique Olive';
+    src: url('AntiqueOlive.eot');
+    src: url('AntiqueOlive.eot?#iefix') format('embedded-opentype'),
+        url('AntiqueOlive.woff2') format('woff2'),
+        url('AntiqueOlive.woff') format('woff'),
+        url('AntiqueOlive.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Antique Olive';
+    src: url('AntiqueOlive-Italic.eot');
+    src: url('AntiqueOlive-Italic.eot?#iefix') format('embedded-opentype'),
+        url('AntiqueOlive-Italic.woff2') format('woff2'),
+        url('AntiqueOlive-Italic.woff') format('woff'),
+        url('AntiqueOlive-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Antique Olive';
+    src: url('AntiqueOlive-Italic_1.eot');
+    src: url('AntiqueOlive-Italic_1.eot?#iefix') format('embedded-opentype'),
+        url('AntiqueOlive-Italic_1.woff2') format('woff2'),
+        url('AntiqueOlive-Italic_1.woff') format('woff'),
+        url('AntiqueOlive-Italic_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Antique Olive';
+    src: url('AntiqueOlive-Regular.eot');
+    src: url('AntiqueOlive-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AntiqueOlive-Regular.woff2') format('woff2'),
+        url('AntiqueOlive-Regular.woff') format('woff'),
+        url('AntiqueOlive-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Filmotype Maxwell';
+    src: url('MAXWELLBOLD.eot');
+    src: url('MAXWELLBOLD.eot?#iefix') format('embedded-opentype'),
+        url('MAXWELLBOLD.woff2') format('woff2'),
+        url('MAXWELLBOLD.woff') format('woff'),
+        url('MAXWELLBOLD.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Filmotype Maxwell';
+    src: url('MAXWELLREGULAR.eot');
+    src: url('MAXWELLREGULAR.eot?#iefix') format('embedded-opentype'),
+        url('MAXWELLREGULAR.woff2') format('woff2'),
+        url('MAXWELLREGULAR.woff') format('woff'),
+        url('MAXWELLREGULAR.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Filmotype Maxwell';
+    src: url('MAXWELLLIGHT.eot');
+    src: url('MAXWELLLIGHT.eot?#iefix') format('embedded-opentype'),
+        url('MAXWELLLIGHT.woff2') format('woff2'),
+        url('MAXWELLLIGHT.woff') format('woff'),
+        url('MAXWELLLIGHT.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
